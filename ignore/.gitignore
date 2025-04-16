@@ -1,0 +1,64 @@
+video assitido 2 parte min 29:05
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Documento</title>
+</head>
+<body>
+    <div class="container">
+        <div class="content first-content">
+            <div class="first-column">
+                <h2 class="title">Bem-vindo de volta!</h2>
+                <p class="description">Para se manter conectado conosco</p>
+                <p class="description">por favor, faça login com suas informações pessoais</p> 
+                <button class="btn">Entrar</button>
+            </div>
+            <div class="second-column">
+                <h2 class="title">Criar Conta</h2>
+                <div class="social-media">
+                    <ul>
+                        <li><a href="#">Facebook</a></li>
+                        <li><a href="#">Google+</a></li>
+                        <li><a href="#">LinkedIn</a></li>
+                    </ul>
+                </div><!-- social-media -->
+                <p class="description">ou use seu e-mail para se registrar</p>
+                <form class="form">
+                    <input type="text" placeholder="Nome">
+                    <input type="email" placeholder="E-mail">
+                    <input type="password" placeholder="Senha">
+                    <button class="btn">Registrar</button>
+                </form>
+            </div><!-- second-column -->
+        </div><!-- first-content -->
+        <div class="content second-content">
+            <div class="first-column">
+                <h2 class="title">Olá, Amigo!</h2>
+                <p class="description">Insira seus dados pessoais</p>
+                <p class="description">e comece sua jornada conosco</p> 
+                <button class="btn">Registrar</button>
+            </div>
+            <div class="second-column">
+                <h2 class="title">Entrar como Desenvolvedor</h2>
+                <div class="social-media">
+                    <ul>
+                        <li><a href="#">Facebook</a></li>
+                        <li><a href="#">Google+</a></li>
+                        <li><a href="#">LinkedIn</a></li>
+                    </ul>
+                </div><!-- social-media -->
+                <p class="description">ou use sua conta de e-mail:</p>
+                <form class="form">
+                    <input type="email" placeholder="E-mail">
+                    <input type="password" placeholder="Senha">
+                    <a href="#">Esqueceu sua senha?</a>
+                    <button class="btn">Entrar</button>
+                </form>
+            </div><!-- second-column -->
+        </div><!-- second content -->
+    </div>
+</body>
+</html>
